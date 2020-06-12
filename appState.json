@@ -31,7 +31,7 @@
     "currentFileId": "1c5869c3-91cd-49b1-9e7c-0650e5aa6aec",
     "resources": {},
     "customTemplate": {
-      "syntax": "JSON",
+      "syntax": "YAML",
       "overrideDefault": false,
       "dialect": null,
       "definitions": null
@@ -58,7 +58,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591957778048,
+    "lastSave": 1591957822456,
     "sigmaVersion": "1.3.27"
   },
   "VCS_STATE": {
