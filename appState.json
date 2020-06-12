@@ -1,0 +1,71 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "1c5869c3-91cd-49b1-9e7c-0650e5aa6aec": {
+        "id": "1c5869c3-91cd-49b1-9e7c-0650e5aa6aec",
+        "parent": null,
+        "name": "aws-meta-test.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "aws-meta-test.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "awsMetaTest"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "1c5869c3-91cd-49b1-9e7c-0650e5aa6aec"
+    ],
+    "currentFileId": "1c5869c3-91cd-49b1-9e7c-0650e5aa6aec",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "aws-meta-test",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1591957778048,
+    "sigmaVersion": "1.3.27"
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "aws-meta-test",
+      "url": "https://github.com/zgma-test/aws-meta-test"
+    }
+  }
+}
